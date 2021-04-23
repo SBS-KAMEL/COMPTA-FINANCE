@@ -1,0 +1,1129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Deduction">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1795879241 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Autorisation Etape de règlement</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Autorisation Etape - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1795879241 - Field 3453258280 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code utilisateur</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Autorisation Etape - Field Code utilisateur - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1795879241 - Field 3414826190 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Etape</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Autorisation Etape - Field No. Etape - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1795879241 - Field 3399443171 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nom Etape</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Autorisation Etape - Field Nom Etape - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1795879241 - Field 128837633 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type de règlement</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Autorisation Etape - Field Type de règlement - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3185563076 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Autorisation Type de reglement</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Autorisation Type de reglement - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3185563076 - Field 3453258280 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code utilisateur</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Autorisation Type de reglement - Field Code utilisateur - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3185563076 - Field 128837633 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type de règlement</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Autorisation Type de reglement - Field Type de règlement - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3294772286 - Field 1328577871 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>% Retenue</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Groupe Retenue - Field % Retenue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3294772286 - Field 2813744172 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Activé</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Groupe Retenue - Field Activé - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3294772286 - Field 3754279833 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Activé R.S</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Groupe Retenue - Field Activé R.S - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3294772286 - Field 2981037963 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Annexe</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Groupe Retenue - Field Annexe - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3294772286 - Field 2326552967 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Deduction Code</source>
+          <note from="Developer" annotates="general" priority="2">FRA="Code Retenue"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Groupe Retenue - Field Code Retenue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3294772286 - Field 1325938884 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Compte Retenue</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Groupe Retenue - Field Compte Retenue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3294772286 - Field 523901026 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Début Activation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Groupe Retenue - Field Date Début Activation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3294772286 - Field 1750076273 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Designation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Groupe Retenue - Field Designation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3294772286 - Field 274492975 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pos. mnt Brut dans Annexe</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Groupe Retenue - Field Pos. mnt Brut dans Annexe - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3294772286 - Field 1427749006 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Priorité</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Groupe Retenue - Field Priorité - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3294772286 - Field 957730312 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Proposition</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Groupe Retenue - Field Proposition - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3294772286 - Field 1587807225 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ristourne</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Groupe Retenue - Field Ristourne - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3294772286 - Field 1640069484 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sous Pos. mnt Brut ds  Annexe</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Groupe Retenue - Field Sous Pos. mnt Brut ds  Annexe - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3294772286 - Field 2543918396 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type Retenue</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Groupe Retenue - Field Type Retenue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2836548514 - Method 3998599243 - NamedType 914950975" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No de compte ne doit pas être différent du bordereau d'origine </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit EventSubTresorerie - Method MyProcedure - NamedType AccNoErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2836548514 - Method 2614026381 - NamedType 2551532488" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fournisseur bloqué : Veuillez contacter le service financier</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit EventSubTresorerie - Method OnAfterValidateAccountNo - NamedType Text00001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2836548514 - Method 2614026381 - NamedType 3189229105" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Client bloqué : Veuillez contacter le service financier</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit EventSubTresorerie - Method OnAfterValidateAccountNo - NamedType Text00002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2836548514 - Method 2614026381 - NamedType 3826925722" size-unit="char" translate="yes" xml:space="preserve">
+          <source>banque bloqué : Veuillez contacter le service financier</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit EventSubTresorerie - Method OnAfterValidateAccountNo - NamedType Text00003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1410280928 - NamedType 1005209301" size-unit="char" translate="yes" xml:space="preserve">
+          <source>A dimension used in %1 has caused an error. %2</source>
+          <note from="Developer" annotates="general" priority="2">%1=Payment Header No., %2=Error text</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Payment Management Duplique - NamedType CheckDimVauePostingHeaderErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1410280928 - NamedType 3372984694" size-unit="char" translate="yes" xml:space="preserve">
+          <source>A dimension used in %1 %2 %3 has caused an error. %4</source>
+          <note from="Developer" annotates="general" priority="2">%1=Payment Header No., %2=tablecaption, %3=Payment Line No., %4=Error text</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Payment Management Duplique - NamedType CheckDimVauePostingLineErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1410280928 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number %1 cannot be extended to more than 20 characters.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Payment Management Duplique - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1410280928 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>One or more acceptation codes are No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Payment Management Duplique - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1410280928 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>One or more lines have an incorrect RIB code.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Payment Management Duplique - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1410280928 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There is no Payment Header to create.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Payment Management Duplique - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1410280928 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ledger Posting</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Payment Management Duplique - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1410280928 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>One or more due dates are not specified.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Payment Management Duplique - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1410280928 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The action has been canceled.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Payment Management Duplique - NamedType Text007</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1410280928 - NamedType 3283546407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The header RIB is not correct.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Payment Management Duplique - NamedType Text008</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1410280928 - NamedType 3921243024" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The combination of dimensions used in Payment Header %1 is blocked. %2.</source>
+          <note from="Developer" annotates="general" priority="2">%1 - payment header no, %2 - dimension error</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Payment Management Duplique - NamedType Text009</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1410280928 - NamedType 1664139952" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The combination of dimensions used in Payment Header %1, line no. %2 is blocked. %3.</source>
+          <note from="Developer" annotates="general" priority="2">%1 - payment header no, %2 - payment line no, %3 - dimension error</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Payment Management Duplique - NamedType Text010</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1410280928 - NamedType 1026443335" size-unit="char" translate="yes" xml:space="preserve">
+          <source>XX</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Payment Management Duplique - NamedType Text011</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1410280928 - NamedType 2939533186" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Posting Group %1 does not exist.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Payment Management Duplique - NamedType Text012</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1410280928 - NamedType 4214926420" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You must enter a G/L account for customer posting group %1.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Payment Management Duplique - NamedType Text014</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1410280928 - NamedType 1195352358" size-unit="char" translate="yes" xml:space="preserve">
+          <source>A posted line cannot be deleted.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Payment Management Duplique - NamedType Text016</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1410280928 - NamedType 557655741" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Code %1 does not exist.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Payment Management Duplique - NamedType Text017</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1410280928 - NamedType 857534312" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You must specify a debit account number for step %1 of payment type %2.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Payment Management Duplique - NamedType Text018</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1410280928 - NamedType 219837695" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You must specify a credit account number for step %1 of payment type %2.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Payment Management Duplique - NamedType Text019</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1410280928 - NamedType 1940672225" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You must specify an account number in the payment header.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Payment Management Duplique - NamedType Text020</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1410280928 - NamedType 2578368842" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code %1 does not contain a number.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Payment Management Duplique - NamedType Text021</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1410280928 - NamedType 665278991" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The status of document %1 does not authorize archiving.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Payment Management Duplique - NamedType Text022</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1410280928 - NamedType 3669593336" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rounding on %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Payment Management Duplique - NamedType Text100</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1410280928 - Method 3947658581 - NamedType 612391220" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Veuillez faire le lettrage. Client  N° : %1  dans le Bordereau N° :  %2 dans le Ligne N° : %3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Payment Management Duplique - Method ProcessPaymentStep - NamedType Text050</note>
+        </trans-unit>
+        <trans-unit id="Page 1723535830 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CaisserComptabeActivity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivityCaisserComptabe - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1723535830 - Control 2896310037 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chèque Client en coffre</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivityCaisserComptabe - Control Chèque Client en coffre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1723535830 - Control 1407193250 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chèque Client impayé</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivityCaisserComptabe - Control Chèque Client impayé - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1723535830 - Control 933278847 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Effet Client en coffre</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivityCaisserComptabe - Control Effet Client en coffre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1723535830 - Control 1931420388 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Effet Impayé</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivityCaisserComptabe - Control Effet Client Impayé - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1723535830 - Control 1617361543 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Effet Encaissé</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivityCaisserComptabe - Control Effet Encaissé - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1723535830 - Control 1769001162 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Effet Escompté</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivityCaisserComptabe - Control Effet Escompté - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1723535830 - Control 2285963910 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Décharge Chèque versé</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivityCaisserComptabe - Control Bord. versement Chq - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1723535830 - Control 22738551 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Décharge Effet Ecaissé</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivityCaisserComptabe - Control Déch. Effe - Encaiss - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1723535830 - Control 2960015704 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Décharge Effe-Escpt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivityCaisserComptabe - Control Déch. Effe - Escpt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1723535830 - Control 2038585201 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Décharge Espèce versé </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivityCaisserComptabe - Control Déch. espècé versé - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1723535830 - Control 2615168847 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chèque Frs en coffre</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivityCaisserComptabe - Control Chèque Frs en coffre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1723535830 - Control 360600916 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chèque Frs Impayé</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivityCaisserComptabe - Control Chèque Frs Impayé - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1723535830 - Control 2208861047 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chèque Frs Remis</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivityCaisserComptabe - Control Chèque Frs Remis - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1723535830 - Control 3844343125 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Effet Frs en coffre"</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivityCaisserComptabe - Control Effet Frs en coffre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1723535830 - Control 1458392258 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Effet Frs Impayé</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivityCaisserComptabe - Control Effet Frs Impayé - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1723535830 - Control 2895746941 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Effet Frs Remis</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivityCaisserComptabe - Control Effet Frs Remis - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1723535830 - Control 3870498132 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Espèce en Coffre</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivityCaisserComptabe - Control Espèce en Coffre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1244668665 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CaisserComptabeActivityFalcon</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivityCaisserComptabeFalHyg - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1244668665 - Control 2896310037 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chèque Client en coffre</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivityCaisserComptabeFalHyg - Control Chèque Client en coffre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1244668665 - Control 1407193250 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chèque Client impayé</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivityCaisserComptabeFalHyg - Control Chèque Client impayé - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1244668665 - Control 933278847 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Effet Client en coffre</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivityCaisserComptabeFalHyg - Control Effet Client en coffre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1244668665 - Control 1931420388 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Effet Impayé</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivityCaisserComptabeFalHyg - Control Effet Client Impayé - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1244668665 - Control 1617361543 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Effet Encaissé</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivityCaisserComptabeFalHyg - Control Effet Encaissé - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1244668665 - Control 1769001162 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Effet Escompté</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivityCaisserComptabeFalHyg - Control Effet Escompté - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1244668665 - Control 2285963910 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Décharge Chèque versé</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivityCaisserComptabeFalHyg - Control Bord. versement Chq - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1244668665 - Control 22738551 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Décharge Effet Ecaissé</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivityCaisserComptabeFalHyg - Control Déch. Effe - Encaiss - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1244668665 - Control 2960015704 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Décharge Effe-Escpt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivityCaisserComptabeFalHyg - Control Déch. Effe - Escpt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1244668665 - Control 2038585201 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Décharge Espèce versé </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivityCaisserComptabeFalHyg - Control Déch. espècé versé - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1244668665 - Control 2615168847 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chèque Frs en coffre</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivityCaisserComptabeFalHyg - Control Chèque Frs en coffre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1244668665 - Control 360600916 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chèque Frs Impayé</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivityCaisserComptabeFalHyg - Control Chèque Frs Impayé - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1244668665 - Control 2208861047 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chèque Frs Remis</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivityCaisserComptabeFalHyg - Control Chèque Frs Remis - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1244668665 - Control 3844343125 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Effet Frs en coffre"</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivityCaisserComptabeFalHyg - Control Effet Frs en coffre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1244668665 - Control 1458392258 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Effet Frs Impayé</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivityCaisserComptabeFalHyg - Control Effet Frs Impayé - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1244668665 - Control 2895746941 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Effet Frs Remis</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivityCaisserComptabeFalHyg - Control Effet Frs Remis - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1244668665 - Control 3870498132 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Espèce en Coffre</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ActivityCaisserComptabeFalHyg - Control Espèce en Coffre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1795879241 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Autorisation Etape</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Autorisation Etape - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1795879241 - Control 3453258280 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Code utilisateur field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Autorisation Etape - Control Code utilisateur - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1795879241 - Control 3414826190 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. Etape field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Autorisation Etape - Control No. Etape - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1795879241 - Control 3399443171 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Nom Etape field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Autorisation Etape - Control Nom Etape - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1795879241 - Control 128837633 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Type de règlement field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Autorisation Etape - Control Type de règlement - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1277306631 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Autorisation Type de règlement</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Autorisation Type de règlement - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1277306631 - Control 3453258280 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Code utilisateur field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Autorisation Type de règlement - Control Code utilisateur - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1277306631 - Control 128837633 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Type de règlement field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Autorisation Type de règlement - Control Type de règlement - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3158469648 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RoleCenterHedLine</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HeadLineCaissierComptable - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3158469648 - NamedType 2551532488" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bienvenue</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HeadLineCaissierComptable - NamedType Text00001</note>
+        </trans-unit>
+        <trans-unit id="Page 3158469648 - NamedType 3189229105" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Clients bloqués</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HeadLineCaissierComptable - NamedType Text00002</note>
+        </trans-unit>
+        <trans-unit id="Page 3158469648 - NamedType 3826925722" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Bord. Chèque en coffre</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HeadLineCaissierComptable - NamedType Text00003</note>
+        </trans-unit>
+        <trans-unit id="Page 3158469648 - Control 3322762936 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Greeting headline</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HeadLineCaissierComptable - Control GreetingText - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3158469648 - Control 3189229105 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Clients bloqués</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HeadLineCaissierComptable - Control Text00002 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3158469648 - Control 3826925722 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Bordereau chèque client en coffre</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HeadLineCaissierComptable - Control Text00003 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1301028959 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ListeGroupeRetenue</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ListeGroupeRetenue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3960096913 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Caissier-Comptable-Falcon</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC-Caissier-Comp Falcon-Hyg - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3960096913 - Action 1732083938 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Banques</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC-Caissier-Comp Falcon-Hyg - Action Bank - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3960096913 - Action 602441703 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bordereau de paiement</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC-Caissier-Comp Falcon-Hyg - Action Bordereau - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3960096913 - Action 1994964448 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Clients</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC-Caissier-Comp Falcon-Hyg - Action Customer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3960096913 - Action 1936001480 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fournisseur</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC-Caissier-Comp Falcon-Hyg - Action Vendor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3960096913 - Action 3280331631 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Traitement</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC-Caissier-Comp Falcon-Hyg - Action Traitement - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3960096913 - Action 82376971 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Afficher/Edier ligne paiments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC-Caissier-Comp Falcon-Hyg - Action AfficherEditerLignepaiement - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3960096913 - Action 1890119616 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Creer Borderau Paiement</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC-Caissier-Comp Falcon-Hyg - Action CreerBorderauPaiement - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3960096913 - Action 320480453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Documents services validés</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC-Caissier-Comp Falcon-Hyg - Action DocumenstSerivcesenregistres - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3960096913 - Action 2959922110 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Avoirs enregistrés</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC-Caissier-Comp Falcon-Hyg - Action AvoirServiceEnregistrees - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3960096913 - Action 752416369 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Factures enregistrées</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC-Caissier-Comp Falcon-Hyg - Action FactureServiceEnregistrées - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3960096913 - Action 4208761889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Documents achats validés</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC-Caissier-Comp Falcon-Hyg - Action DocumentAchatsvalidés - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3960096913 - Action 1172014490 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Avoirs enregistés</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC-Caissier-Comp Falcon-Hyg - Action AvoirAchatsenregistres - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3960096913 - Action 3153227714 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Réceptions enregistées</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC-Caissier-Comp Falcon-Hyg - Action Bondereceptionenregistres - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3960096913 - Action 157964032 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Factures enregistés</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC-Caissier-Comp Falcon-Hyg - Action FacturesAchatsenregistres - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3960096913 - Action 1966870384 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Documents ventes validés</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC-Caissier-Comp Falcon-Hyg - Action DocumentVentesvalidés - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3960096913 - Action 1258999752 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Avoir enregistrées</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC-Caissier-Comp Falcon-Hyg - Action AvoirVentesEnregistrées - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3960096913 - Action 3062560511 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expéditions enregistrées</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC-Caissier-Comp Falcon-Hyg - Action BLVentesEnregistrees - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3960096913 - Action 2317979743 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Factures enregistrées</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC-Caissier-Comp Falcon-Hyg - Action FactureVentesEnregistrées - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3322807997 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Caissier-Comptable</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC-Caissier-Comptable - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3322807997 - Action 1732083938 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Banques</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC-Caissier-Comptable - Action Bank - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3322807997 - Action 602441703 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bordereau de paiement</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC-Caissier-Comptable - Action Bordereau - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3322807997 - Action 1994964448 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Clients</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC-Caissier-Comptable - Action Customer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3322807997 - Action 1936001480 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fournisseur</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC-Caissier-Comptable - Action Vendor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3322807997 - Action 3280331631 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Traitement</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC-Caissier-Comptable - Action Traitement - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3322807997 - Action 82376971 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Afficher/Edier ligne paiments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC-Caissier-Comptable - Action AfficherEditerLignepaiement - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3322807997 - Action 1890119616 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Creer Borderau Paiement</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC-Caissier-Comptable - Action CreerBorderauPaiement - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3322807997 - Action 320480453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Documents services validés</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC-Caissier-Comptable - Action DocumenstSerivcesenregistres - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3322807997 - Action 2959922110 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Avoirs enregistrés</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC-Caissier-Comptable - Action AvoirServiceEnregistrees - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3322807997 - Action 752416369 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Factures enregistrées</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC-Caissier-Comptable - Action FactureServiceEnregistrées - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3322807997 - Action 4208761889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Documents achats validés</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC-Caissier-Comptable - Action DocumentAchatsvalidés - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3322807997 - Action 1172014490 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Avoirs enregistés</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC-Caissier-Comptable - Action AvoirAchatsenregistres - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3322807997 - Action 3153227714 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Réceptions enregistées</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC-Caissier-Comptable - Action Bondereceptionenregistres - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3322807997 - Action 157964032 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Factures enregistés</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC-Caissier-Comptable - Action FacturesAchatsenregistres - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3322807997 - Action 1966870384 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Documents ventes validés</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC-Caissier-Comptable - Action DocumentVentesvalidés - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3322807997 - Action 1258999752 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Avoir enregistrées</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC-Caissier-Comptable - Action AvoirVentesEnregistrées - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3322807997 - Action 3062560511 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expéditions enregistrées</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC-Caissier-Comptable - Action BLVentesEnregistrees - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3322807997 - Action 2317979743 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Factures enregistrées</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RC-Caissier-Comptable - Action FactureVentesEnregistrées - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3478521175 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Retenue à la source</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Retenu a la source - NEW - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3478521175 - NamedType 3315257818" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BORDEREAU DE REMISE  %1  A L'ENCAISSEMENT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Retenu a la source - NEW - NamedType TxtTitre</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2211706696 - Action 1385787432 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2211706696">
+          <source>valider bordereau</source>
+          <note from="Developer" annotates="general" priority="2">NLB="Valider bordereau"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Payment Slip - Action valider bordereau - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2211706696 - Action 2363185391 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2211706696">
+          <source>Imprimer</source>
+          <note from="Developer" annotates="general" priority="2">FRA=Imprimer,ENU=Print</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Payment Slip - Action Imprimer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1682139193 - Field 3317745844 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1682139193">
+          <source>Source Code</source>
+          <note from="Developer" annotates="general" priority="2">FRA:"Code Journal"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Bank Account - Field Source code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1183321529 - Field 2823505394 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2733917450">
+          <source>External Reference</source>
+          <note from="Developer" annotates="general" priority="2">FRA = Référence externe ENU = External Reference</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Cust. Ledger Entry Ext - Field External Reference - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1498446062 - Field 1931013140 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1498446062">
+          <source>Recouvreur</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Employee - Field Recouvreur - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3053695341 - Field 2285963910 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3053695341">
+          <source>Bord. versement Chq</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Finance Cue - Field Bord. versement Chq - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3053695341 - Field 438411414 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3053695341">
+          <source>Chèque Chez commercial</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Finance Cue - Field Chèque Chez commercial - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3053695341 - Field 2896310037 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3053695341">
+          <source>Chèque Client en coffre</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Finance Cue - Field Chèque Client en coffre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3053695341 - Field 1407193250 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3053695341">
+          <source>Chèque Client impayé</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Finance Cue - Field Chèque Client impayé - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3053695341 - Field 1139451244 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3053695341">
+          <source>Chèque de garantie</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Finance Cue - Field Chèque de garantie - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3053695341 - Field 2615168847 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3053695341">
+          <source>Chèque Frs en coffre</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Finance Cue - Field Chèque Frs en coffre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3053695341 - Field 360600916 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3053695341">
+          <source>Chèque Frs Impayé</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Finance Cue - Field Chèque Frs Impayé - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3053695341 - Field 2208861047 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3053695341">
+          <source>Chèque Frs Remis</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Finance Cue - Field Chèque Frs Remis - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3053695341 - Field 22738551 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3053695341">
+          <source>Déch. Effe - Encaiss</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Finance Cue - Field Déch. Effe - Encaiss - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3053695341 - Field 2960015704 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3053695341">
+          <source>Déch. Effe - Escpt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Finance Cue - Field Déch. Effe - Escpt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3053695341 - Field 2038585201 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3053695341">
+          <source>Déch. espècé versé</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Finance Cue - Field Déch. espècé versé - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3053695341 - Field 933278847 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3053695341">
+          <source>Effet Client en coffre</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Finance Cue - Field Effet Client en coffre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3053695341 - Field 1931420388 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3053695341">
+          <source>Effet Client Impayé</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Finance Cue - Field Effet Client Impayé - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3053695341 - Field 1617361543 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3053695341">
+          <source>Effet Encaissé</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Finance Cue - Field Effet Encaissé - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3053695341 - Field 1769001162 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3053695341">
+          <source>Effet Escompté</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Finance Cue - Field Effet Escompté - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3053695341 - Field 3844343125 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3053695341">
+          <source>Effet Frs en coffre</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Finance Cue - Field Effet Frs en coffre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3053695341 - Field 1458392258 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3053695341">
+          <source>Effet Frs Impayé</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Finance Cue - Field Effet Frs Impayé - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3053695341 - Field 2895746941 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3053695341">
+          <source>Effet Frs Remis</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Finance Cue - Field Effet Frs Remis - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3053695341 - Field 1165953324 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3053695341">
+          <source>Espèce Chez commercial</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Finance Cue - Field Espèce Chez commercial - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3053695341 - Field 3870498132 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3053695341">
+          <source>Espèce en Coffre</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Finance Cue - Field Espèce en Coffre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1806786327 - Field 2812615863 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1806786327">
+          <source>Code Retenue à la Source</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Gen. Journal Line - Field Code Retenue à la Source - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1806786327 - Field 2823505394 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1806786327">
+          <source>External Reference</source>
+          <note from="Developer" annotates="general" priority="2">FRA=Référence Externe, ENU= External Reference</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Gen. Journal Line - Field External Reference - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4050813720 - Field 3007315955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4050813720">
+          <source>Code retenue par defaut</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension General Ledger Setup - Field Code retenue par defaut - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4050813720 - Field 1782050487 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4050813720">
+          <source>Plafond Mnt Exonoration</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension General Ledger Setup - Field Plafond Mnt Exonoration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4099490416 - Field 1022863978 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4099490416">
+          <source>Reclassement</source>
+          <note from="Developer" annotates="general" priority="2">FRA=Reclassement, ENU= Reclassement</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Payment Class - Field Reclassement - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4099490416 - Field 2239238017 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4099490416">
+          <source>Payment Class</source>
+          <note from="Developer" annotates="general" priority="2">FRA=Type Réglement, ENU= Payment Class</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Payment Class - Field Type Réglement - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1018708135 - Field 383765306 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1018708135">
+          <source>Code Vendeur</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Payment Header - Field Code Vendeur - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1018708135 - Field 2553232769 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1018708135">
+          <source>Date validation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Payment Header - Field Date validation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1018708135 - Field 1931013140 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1018708135">
+          <source>Recouvreur</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Payment Header - Field Recouvreur - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1018708135 - Field 1783524998 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1018708135">
+          <source>Réf. Borderaeu banque</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Payment Header - Field Réf. Borderaeu banque - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1018708135 - Field 2239238017 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1018708135">
+          <source>Payment Class</source>
+          <note from="Developer" annotates="general" priority="2">FRA=Type Réglement, ENU= Payment Class</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Payment Header - Field Type Réglement - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3074347584 - Method 3152277940 - NamedType 3189229105" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 3074347584">
+          <source>Impossible de supprimer une ligne validée</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Payment Line - Method OnDelete - NamedType Text00002</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3074347584 - Field 868798724 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3074347584">
+          <source>Assiette Retenue à la source</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Payment Line - Field Assiette Retenue à la source - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3074347584 - Field 2812615863 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3074347584">
+          <source>Code Retenue à la Source</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Payment Line - Field Code Retenue à la Source - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3074347584 - Field 383765306 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3074347584">
+          <source>Code Vendeur</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Payment Line - Field Code Vendeur - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3074347584 - Field 2736414209 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3074347584">
+          <source>Code Vendeur Tmp</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Payment Line - Field Code Vendeur Tmp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3074347584 - Field 3945530266 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3074347584">
+          <source>Date de validation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Payment Line - Field Date de validation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3074347584 - Field 2823505394 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3074347584">
+          <source>External Reference</source>
+          <note from="Developer" annotates="general" priority="2">FRA = Référence externe ENU = External Reference</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Payment Line - Field External Reference - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3074347584 - Field 964321186 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3074347584">
+          <source>Groupe Comptabilisation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Payment Line - Field Groupe Comptabilisation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3074347584 - Field 4272113277 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3074347584">
+          <source>Libellé</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Payment Line - Field Libellé - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3074347584 - Field 3736854535 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3074347584">
+          <source>Montant Initial</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Payment Line - Field Montant Initial - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3074347584 - Field 1069188854 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3074347584">
+          <source>Montant Initial DS</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Payment Line - Field Montant Initial DS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3074347584 - Field 711010605 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3074347584">
+          <source>Montant Retenue</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Payment Line - Field Montant Retenue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3074347584 - Field 643567272 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3074347584">
+          <source>Montant Retenue validé</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Payment Line - Field Montant Retenue validé - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3074347584 - Field 215981646 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3074347584">
+          <source>No. Salarié</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Payment Line - Field No. Salarié - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1921688312 - Field 262118424 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1921688312">
+          <source>Amount Retenue</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Payment Post. Buffer - Field Amount Retenue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1921688312 - Field 2912898653 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1921688312">
+          <source>Amount Retenue (LCY)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Payment Post. Buffer - Field Amount Retenue (LCY) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1921688312 - Field 1176150243 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1921688312">
+          <source>Assiette RS</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Payment Post. Buffer - Field Assiette RS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1921688312 - Field 2812615863 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1921688312">
+          <source>Code Retenue à la Source</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Payment Post. Buffer - Field Code Retenue à la Source - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1921688312 - Field 1325938884 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1921688312">
+          <source>Compte Retenue</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Payment Post. Buffer - Field Compte Retenue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1921688312 - Field 635480082 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1921688312">
+          <source>External reference</source>
+          <note from="Developer" annotates="general" priority="2">FRA = Référence externe, ENU = External reference</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Payment Post. Buffer - Field External reference - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 931886930 - Field 2532737413 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 931886930">
+          <source>Calculer Retenue à la Source</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Payment Status - Field Calculer Retenue à la Source - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3181505063 - Field 3515167833 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3181505063">
+          <source>Annuler Retenue à la Source</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Payment Step Ledger - Field Annuler Retenue à la Source - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3181505063 - Field 2532737413 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3181505063">
+          <source>Calculer Retenue à la Source</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Payment Step Ledger - Field Calculer Retenue à la Source - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3181505063 - Field 4234438941 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3181505063">
+          <source>Groupe Compta Salarié</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Payment Step Ledger - Field Groupe Compta Salarié - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3865456427 - Field 1361304562 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2506227452">
+          <source>Banque Ligne obligatoire</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension PaymentStepExt - Field Banque Ligne obligatoire - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3865456427 - Field 2941180611 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2506227452">
+          <source>Blocage Compte</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension PaymentStepExt - Field Blocage Compte - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3865456427 - Field 1338192669 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2506227452">
+          <source>Lettrage Obligatoire</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension PaymentStepExt - Field Lettrage Obligatoire - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3865456427 - Field 4030709592 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2506227452">
+          <source>No. Doc Externe Obligatoir</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension PaymentStepExt - Field No. Doc Externe Obligatoir - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3865456427 - Field 811169257 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2506227452">
+          <source>Réf. Borderau banque Oblogatoire</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension PaymentStepExt - Field Réf. Bord. banque Oblogatoire - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2852714242 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 337631938">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension UserSetup - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1936001480 - Field 4244152160 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1936001480">
+          <source>Code retenue RS</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Vendor - Field Code retenue RS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1936001480 - Field 3026090419 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1936001480">
+          <source>Exonoré RS</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Vendor - Field Exonoré RS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1936001480 - Field 2110617207 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1936001480">
+          <source>Fin Exonoration</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Vendor - Field Fin Exonoration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Profile 3281925523 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rôle center Caissie Comptable</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Profile RC Caissie Comp Flower-Hyg - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Profile 3281925523 - Property 4111922599" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rôle center Caissie Comptable</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Profile RC Caissie Comp Flower-Hyg - Property ProfileDescription</note>
+        </trans-unit>
+        <trans-unit id="Profile 1086922139 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rôle center Caissie Comptable</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Profile RC Caissie Comptable - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Profile 1086922139 - Property 4111922599" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rôle center Caissie Comptable</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Profile RC Caissie Comptable - Property ProfileDescription</note>
+        </trans-unit>
+        <trans-unit id="Enum 3787429515 - EnumValue 1417232546 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chèque</source>
+          <note from="Developer" annotates="general" priority="2">FRA= Chèque, ENU= Check</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Payment Class: Type Réglement - EnumValue Check - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3787429515 - EnumValue 2300108033 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Retenue à la Source</source>
+          <note from="Developer" annotates="general" priority="2">FRA= Retenue à la Source, ENU= Deduction</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Payment Class: Type Réglement - EnumValue Deduction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3787429515 - EnumValue 253238575 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Effet</source>
+          <note from="Developer" annotates="general" priority="2">FRA= Traite, ENU= Draft</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Payment Class: Type Réglement - EnumValue Draft - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3787429515 - EnumValue 64327911 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lettre de crédit</source>
+          <note from="Developer" annotates="general" priority="2">FRA= Lettre de crédit, ENU= LettreC</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Payment Class: Type Réglement - EnumValue LettreC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3787429515 - EnumValue 3448339824 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Autre </source>
+          <note from="Developer" annotates="general" priority="2">FRA= Autre, ENU= Other</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Payment Class: Type Réglement - EnumValue Other - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3787429515 - EnumValue 3568461190 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Espèce</source>
+          <note from="Developer" annotates="general" priority="2">FRA= Espèce, ENU= Cash</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Payment Class: Type Réglement - EnumValue Species - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3787429515 - EnumValue 2710980787 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TPE</source>
+          <note from="Developer" annotates="general" priority="2">FRA= TPE, ENU= TPE</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Payment Class: Type Réglement - EnumValue TPE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3787429515 - EnumValue 943231149 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Virement</source>
+          <note from="Developer" annotates="general" priority="2">FRA= Virement, ENU= Transfer</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Payment Class: Type Réglement - EnumValue transfer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3787429515 - EnumValue 820255632 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Retenue TVA</source>
+          <note from="Developer" annotates="general" priority="2">FRA= Retenue TVA, ENU= VAT Deduction</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Payment Class: Type Réglement - EnumValue VAT Deduction - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

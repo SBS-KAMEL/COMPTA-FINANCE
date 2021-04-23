@@ -1,0 +1,29 @@
+{
+  "id": "92b340f6-0fe7-4886-81dc-8daa580706e4",
+  "name": "Deduction",
+  "publisher": "SMART BUSINESS SOLUTION ©",
+  "version": "1.0.2.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "target": "OnPrem",
+  "dependencies": [
+  ],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 51080,
+      "to": 51100
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://Deduction.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0",
+  "features": ["TranslationFile"]
+}
