@@ -1,10 +1,10 @@
 /// <summary>
 /// Page RC-Caissier-Comptable (ID 51082).
 /// </summary>51085
-page 51085 "RC-Caissier-Comp Falcon-Hyg"
+page 51085 "RC-Caisse Centrale"
 {
     PageType = RoleCenter;
-    Caption = 'Caissier-Comptable-Falcon';
+    Caption = 'Caisse centrale';
 
     layout
     {
@@ -14,7 +14,7 @@ page 51085 "RC-Caissier-Comp Falcon-Hyg"
             {
                 ApplicationArea = Basic, Suite;
             }
-            part(Activities; ActivityCaisserComptabeFalHyg)
+            part(Activities; ActivityCaisseCentrale)
             {
                 ApplicationArea = Basic, Suite;
             }
@@ -168,7 +168,7 @@ page 51085 "RC-Caissier-Comp Falcon-Hyg"
 profile "RC Caissie Comp Flower-Hyg"
 {
     ProfileDescription = 'Rôle center Caissie Comptable';
-    RoleCenter = "RC-Caissier-Comptable";
+    RoleCenter = "RC-Caissie-Secondaire";
     Caption = 'Rôle center Caissie Comptable';
 }
 

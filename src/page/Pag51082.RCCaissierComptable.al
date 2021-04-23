@@ -1,7 +1,7 @@
 /// <summary>
 /// Page RC-Caissier-Comptable (ID 51082).
 /// </summary>
-page 51082 "RC-Caissier-Comptable"
+page 51082 "RC-Caissie-Secondaire"
 {
     PageType = RoleCenter;
     Caption = 'Caissier-Comptable';
@@ -14,7 +14,7 @@ page 51082 "RC-Caissier-Comptable"
             {
                 ApplicationArea = Basic, Suite;
             }
-            part(Activities; ActivityCaisserComptabe)
+            part(Activities; ActivityCaisseSecondaire)
             {
                 ApplicationArea = Basic, Suite;
             }
@@ -168,7 +168,7 @@ page 51082 "RC-Caissier-Comptable"
 profile "RC Caissie Comptable"
 {
     ProfileDescription = 'Rôle center Caissie Comptable';
-    RoleCenter = "RC-Caissier-Comptable";
+    RoleCenter = "RC-Caissie-Secondaire";
     Caption = 'Rôle center Caissie Comptable';
 }
 

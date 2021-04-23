@@ -22,7 +22,7 @@ tableextension 51089 "Finance Cue" extends "Finance Cue"
             CalcFormula = count("Payment Line" WHERE("Payment Class" = filter('DEC-CHQ'), "Status No." = filter(60000), "Copied To No." = filter('')));
         }
         //__________________________Client
-        field(51083; "Chèque Client en coffre"; Integer)
+        field(51083; "Chèque en coffre"; Integer)
         {
             FieldClass = FlowField;
             CalcFormula = count("Payment Line" WHERE("Payment Class" = filter('ENC-CHQ'), "Status No." = filter(20000), "Copied To No." = filter('')));
@@ -32,7 +32,7 @@ tableextension 51089 "Finance Cue" extends "Finance Cue"
             FieldClass = FlowField;
             CalcFormula = count("Payment Line" WHERE("Payment Class" = filter('ENC-CHQ'), "Status No." = filter(70000), "Copied To No." = filter('')));
         }
-        field(51085; "Effet Client en coffre"; Integer)
+        field(51085; "Effet en coffre"; Integer)
         {
             FieldClass = FlowField;
             CalcFormula = count("Payment Line" WHERE("Payment Class" = filter('ENC-EFFET'), "Status No." = filter(30000), "Copied To No." = filter('')));
@@ -108,7 +108,72 @@ tableextension 51089 "Finance Cue" extends "Finance Cue"
 
             CalcFormula = - sum("Payment Line"."Amount (LCY)" WHERE("Payment Class" = filter('ENC-ESP'), "Status No." = filter(70000), "Copied To No." = filter('')));
         }
-
+        //KK_230421___
+        field(51100; "Total Chèque en coffre"; Decimal)
+        {
+            FieldClass = FlowField;
+            CalcFormula = - Sum("Payment Line".Amount WHERE("Payment Class" = filter('ENC-CHQ'), "Status No." = filter(20000), "Copied To No." = filter('')));
+        }
+        field(51101; "Total Effet en coffre"; Decimal)
+        {
+            FieldClass = FlowField;
+            CalcFormula = - sum("Payment Line".Amount WHERE("Payment Class" = filter('ENC-EFFET'), "Status No." = filter(30000), "Copied To No." = filter('')));
+        }
+        field(51102; "Virement client"; Decimal)
+        {
+            FieldClass = FlowField;
+            CalcFormula = - sum("Payment Line".Amount WHERE("Payment Class" = filter('VIR-CLIENT'), "Status No." = filter(20000), "Copied To No." = filter(''), "Posting Date" = field("Date Filter")));
+        }
+        field(51103; "Versement client"; Decimal)
+        {
+            FieldClass = FlowField;
+            CalcFormula = - sum("Payment Line".Amount WHERE("Payment Class" = filter('VERS-CLIENT'), "Status No." = filter(20000), "Copied To No." = filter(''), "Posting Date" = field("Date Filter")));
+        }
+        field(51104; "Chèques transférés"; Integer)
+        {
+            FieldClass = FlowField;
+            CalcFormula = count("Payment Line" WHERE("Payment Class" = filter('ENC-CHQ'), "Status No." = filter(220000), "Copied To No." = filter('')));
+        }
+        field(51105; "Effets transférés"; Integer)
+        {
+            FieldClass = FlowField;
+            CalcFormula = count("Payment Line" WHERE("Payment Class" = filter('ENC-EFFET'), "Status No." = filter(180000), "Copied To No." = filter('')));
+        }
+        field(51106; "Espèce Transféré"; Decimal)
+        {
+            FieldClass = FlowField;
+            CalcFormula = - sum("Payment Line"."Amount (LCY)" WHERE("Payment Class" = filter('ENC-ESP'), "Status No." = filter(80000), "Copied To No." = filter('')));
+        }
+        field(51107; "Date Filter"; Date)
+        {
+            Caption = 'Filtre Date';
+            FieldClass = FlowFilter;
+        }
+        field(51108; "Espèce Reçu"; Decimal)
+        {
+            FieldClass = FlowField;
+            CalcFormula = - sum("Payment Line"."Amount (LCY)" WHERE("Payment Class" = filter('ENC-ESP'), "Status No." = filter(90000), "Copied To No." = filter('')));
+        }
+        field(51109; "Chèques Reçus"; Integer)
+        {
+            FieldClass = FlowField;
+            CalcFormula = count("Payment Line" WHERE("Payment Class" = filter('ENC-CHQ'), "Status No." = filter(210000), "Copied To No." = filter('')));
+        }
+        field(51110; "Effets Reçus"; Integer)
+        {
+            FieldClass = FlowField;
+            CalcFormula = count("Payment Line" WHERE("Payment Class" = filter('ENC-EFFET'), "Status No." = filter(190000), "Copied To No." = filter('')));
+        }
+        field(51111; "Total Chèques Reçus"; Decimal)
+        {
+            FieldClass = FlowField;
+            CalcFormula = - sum("Payment Line".Amount WHERE("Payment Class" = filter('ENC-CHQ'), "Status No." = filter(210000), "Copied To No." = filter('')));
+        }
+        field(51112; "Total Effets Reçus"; Decimal)
+        {
+            FieldClass = FlowField;
+            CalcFormula = - sum("Payment Line".Amount WHERE("Payment Class" = filter('ENC-EFFET'), "Status No." = filter(190000), "Copied To No." = filter('')));
+        }
     }
 
     var

@@ -50,8 +50,8 @@ page 51081 "HeadLineCaissierComptable"
 
         clear(FinanceCue);
         FinanceCue.get;
-        FinanceCue.CalcFields("Chèque Client en coffre");
-        ChqClientCoffre := FinanceCue."Chèque Client en coffre";
+        FinanceCue.CalcFields("Chèque en coffre");
+        ChqClientCoffre := FinanceCue."Chèque en coffre";
 
     end;
 
