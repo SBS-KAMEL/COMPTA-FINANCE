@@ -159,7 +159,7 @@ codeunit 51080 "EventSubTresorerie"
         If PayLine.FindFirst() then begin
             If PayLine."Created from No." <> '' then begin
                 FromPayHeader.GET(PayLine."Created from No.");
-                IF rec."Account No." <> FromPayHeader."Account No." then
+                IF (rec."Account No." <> FromPayHeader."Account No.") AND (FromPayHeader."Account No." <> '') then
                     Error(AccNoErr);
             end;
         end;

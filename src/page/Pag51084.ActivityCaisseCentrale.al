@@ -3,7 +3,7 @@
 /// </summary>
 page 51084 "ActivityCaisseCentrale"
 {
-    Caption = 'Caissie Centrale';
+    Caption = 'Caisse Centrale';
     PageType = CardPart;
     RefreshOnActivate = true;
     SourceTable = "Finance Cue";
