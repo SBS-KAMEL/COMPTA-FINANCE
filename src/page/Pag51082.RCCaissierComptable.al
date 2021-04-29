@@ -154,7 +154,7 @@ page 51082 "RC-Caissie-Secondaire"
                 {
                     Caption = 'Creer Borderau Paiement';
                     Image = Action;
-                    RunObject = codeunit "Payment Management";
+                    RunObject = codeunit "Payment Management Duplique";
                     ApplicationArea = all;
 
                 }

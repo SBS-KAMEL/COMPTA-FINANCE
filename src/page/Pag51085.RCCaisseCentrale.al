@@ -154,7 +154,7 @@ page 51085 "RC-Caisse Centrale"
                 {
                     Caption = 'Creer Borderau Paiement';
                     Image = Action;
-                    RunObject = codeunit "Payment Management";
+                    RunObject = codeunit "Payment Management Duplique";
                     ApplicationArea = all;
 
                 }

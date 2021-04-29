@@ -1070,6 +1070,7 @@ codeunit 51081 "Payment Management Duplique"
         Options: Text[250];
         Choice: Integer;
         i: Integer;
+        RecAutorisationEtapes: Record "Autorisation Etape";
     begin
         OK := false;
         i := 0;
@@ -1109,10 +1110,15 @@ codeunit 51081 "Payment Management Duplique"
             if Step.Find('-') then begin
                 i += 1;
                 repeat
-                    if Options = '' then
-                        Options := Step.Name
-                    else
-                        Options := Options + ',' + Step.Name;
+                    //KK_290421__Autorisation Etape 
+                    RecAutorisationEtapes.SETRANGE("Type de règlement", PaymentClass.Code);
+                    RecAutorisationEtapes.SETRANGE("No. Etape", Step.Line);
+                    RecAutorisationEtapes.SETRANGE("Code utilisateur", USERID);
+                    If RecAutorisationEtapes.FindFirst() then
+                        if Options = '' then
+                            Options := Step.Name
+                        else
+                            Options := Options + ',' + Step.Name;
                 until Step.Next = 0;
                 if i > 0 then begin
                     Choice := StrMenu(Options, 1);
